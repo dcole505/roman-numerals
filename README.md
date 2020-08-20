@@ -21,15 +21,17 @@ __
 
 ## Setup/Installation Requirements
 
-* __
-* __
-* __
-* __
-* __
+* _Navigate to https://github.com/dcole505/roman-numerals_
+* _Click on the green 'Code' dropdown menu and copy the URL to your clipboard._
+* _Open a command line/terminal and navigate to your desktop 'cd Desktop'_
+* _Clone the repository onto your machine with the following command 'git clone https://github.com/dcole505/roman-numerals'_
+* _Navigate into the project folder for the project using the following command 'cd roman-numerals'_
+* _To view the files and folders in the project, use the following command 'ls'
+* _To view the webpage, navigate to Desktop/roman-numerals and right click the index.html file and select to open it with your default browser.
 
 ## Known Bugs
 
-_All the bugs_
+_There are currently no know bugs_
 
 ## Support and contact details
 
@@ -41,6 +43,10 @@ _Built using HTML, CSS, Bootstrap, JavaScript, and JQuery_
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+Copyright <2020> <David Cole>
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
