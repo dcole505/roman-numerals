@@ -7,7 +7,15 @@
 ## Description
 
 ## Specs
-
+- If NaN, return NaN
+    * input: -5
+    * output: "Not a number"
+- User input must be a positive number less than 4000.
+    * Input: 4500
+    * Output: "Please enter a number less than 4000.
+- Convert user input to roman numbers.
+  * Input: 55
+  * Output: LV
 
 __
 
