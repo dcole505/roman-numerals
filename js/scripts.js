@@ -43,21 +43,23 @@ function toRoman(number){
 }
 
 function toRoman2(number){
+  let outputString = "";
   const decimals = [1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1];
   const roman = ["M","CM","D","CD","C","XC","L", "XL", "X", "IX", "V", "IV", "I"];
 
   for (let i = 0; i < decimals.length; i++) {
     if(number >= decimals[i]){
       if (number > 0){
-      number = number - decimals[i]; //ex 55-50 = 5
+        number = number - decimals[i]; //ex 55-50 = 5
+        //const numeral1 = decimals[i];
+        alert(roman[i]);
       }else{
-        return number;
+        outputString += roman[i];
+        //alert(outputString);
       }
     }
-    
-
-
-}
+  //return outputString;
+  }
 }
   
   //const firstElement = roman.shift(number);
