@@ -1,3 +1,6 @@
+//UI logic
 $(document).ready(function() {
-event.preventDefault();
+
 })
+
+//Business Logic
